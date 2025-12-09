@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+
+# Node
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+coverage/
